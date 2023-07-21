@@ -1,0 +1,97 @@
+/* body{
+  background: linear-gradient(#431675, #250242);
+  background-repeat: no-repeat;
+  background-size: auto;
+  font-family: JosefinSans-Medium;
+  line-height: 1.5
+} */
+body {
+  background-color: #147550;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Kanit', sans-serif;
+}
+
+.banner {
+  border: solid #147550;
+  border-radius: 10px;
+  background-image: url("./assets/Images/tecladobanner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.eslogan {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.8rem;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.logoImg {
+  margin: 5px;
+  width: 10%;
+  height: 10%;
+  border: solid;
+  border-color: #147550;
+  border-radius: 50%;
+}
+
+.navContainer {
+  display: flex;
+  justify-items: auto;
+  background-color: #212529;
+  border: solid #147550;
+  border-radius: 10px;
+  padding: 0;
+  padding-right: 15px;
+  margin: 2% auto;
+}
+
+button.navbar-toggler {
+  background-color: #147550;
+}
+  
+.navbar-brand:hover h1 {
+  color: white;
+}
+
+.navbar-brand h1 {
+  margin-left: 10%;
+  color: white;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+color: #147550;
+}
+
+.nav-link {
+  margin-left: 15px;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.flexSide {
+  display: flex;
+  justify-content:center;
+  color: #147550;
+}
+
+.cajaGreeting {
+  margin-top: 10%;
+  padding: 50px;
+  color: white;
+  background-color: #212529;
+  border: solid;
+  border-radius: 20px;
+  border-color: #147550;
+  text-align: center;
+  width: 60%;
+}
