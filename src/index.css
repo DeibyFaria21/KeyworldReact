@@ -1,4 +1,4 @@
-/* body{
+.mainJsx {
   background: linear-gradient(#431675, #250242);
   background-repeat: no-repeat;
   background-size: auto;
@@ -85,7 +85,7 @@ color: #147550;
 }
 
 .cajaGreeting {
-  margin-top: 10%;
+  margin: 10% auto;
   padding: 50px;
   color: white;
   background-color: #212529;

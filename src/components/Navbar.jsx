@@ -7,7 +7,7 @@ import {Container, Nav, Navbar} from 'react-bootstrap'
 const NavbarDoc = () => {
   return (
     <div>
-      <Navbar expand="lg" className="bg-body-tertiary ">
+      <Navbar expand="lg" className="">
         <Container className='navContainer'>
           <Navbar.Brand href="#Greeting"><h1 className="nav-link active text-success" aria-current="page">Keyworld</h1></Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />

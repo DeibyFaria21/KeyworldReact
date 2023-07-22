@@ -5,7 +5,7 @@ import ItemListContainer from './components/ItemListContainer'
 
 const App = () => {
   return (
-    <div>
+    <div className='mainJsx'>
     <Banner/>
     <NavbarDoc/>
     <ItemListContainer
