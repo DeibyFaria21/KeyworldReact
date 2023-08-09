@@ -1,24 +1,28 @@
 import React from 'react'
 import Item from './Item'
-/* import productos from '../productos.json' */
 
 
 const ItemList = ({productos}) => {
   return (
-    <div>
-      {productos.map((p) => {
-        return (
-          <Item
-          id= {p.id}
-          key= {p.id}
-          categoria= {p.categoria}
-          nombre= {p.nombre}
-          descripcion= {p.descripcion}
-          imagen= {p.imagen}
-          />
+    <div className='container d-flex justify-content-center align-items-center'>
+      <div className='row'>
+        <h2>Acá puede apreciar la variedad de productos en catálogo</h2>
+        {productos.map((p) => {
+          return (
+            <div className='col-md-3 p-3'>
+              
+              <Item
+              key= {p.id}
+              id= {p.id}
+              categoria= {p.categoria}
+              nombre= {p.nombre}
+              /* imagen= {p.imagen} */
+              />
+            </div>
           )
         })
-      }
+        }
+      </div>
     </div>
   )
 }

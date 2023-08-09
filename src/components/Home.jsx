@@ -1,14 +1,15 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const Home = () => {
   return (
-    <container className='cajaHome'>
+    <div className='cajaHome'>
         <div className="cajaimgtext1">
             <div className="col-xl-6 row border border-2 border-dark m-0 p-0">
-                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/mano_teclado1.png" alt="mano_teclado1"/>
+                {/* <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/mano_teclado1.png" alt="mano_teclado1"/>
                 <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/mano_teclado2.png" alt="mano_teclado2"/>
                 <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/mano_teclado3.png" alt="mano_teclado3"/>
-                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/mano_teclado4.png" alt="mano_teclado4"/>
+                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/mano_teclado4.png" alt="mano_teclado4"/> */}
             </div>
             <div className="col-xl-6 row">
                 <h2 className="text-center mt-4 text-decoration-underline">
@@ -35,13 +36,13 @@ const Home = () => {
                 </div>
             </div>
             <div className="col-xl-6 row border border-2 border-dark m-0 p-0">
-                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/teclado_objetivo1.jpg" alt="teclado_objetivo1"/>
+                {/* <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/teclado_objetivo1.jpg" alt="teclado_objetivo1"/>
                 <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/teclado_objetivo2.jpg" alt="teclado_objetivo2"/>
                 <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/teclado_objetivo3.jpg" alt="teclado_objetivo3"/>
-                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/teclado_objetivo4.jpg" alt="teclado_objetivo4"/>
+                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/teclado_objetivo4.jpg" alt="teclado_objetivo4"/> */}
             </div>
         </div>
-    </container>
+    </div>
   )
 }
 

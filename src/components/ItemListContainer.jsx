@@ -25,8 +25,7 @@ import {useParams} from 'react-router-dom'
 
 
   const ItemListContainer = () => {
-
-    const {category} = useParams()
+    const {categoria} = useParams()
 
     //Obtención de productos a través de Promesa
     const getdata = new Promise((resolve, reject) => {
@@ -46,13 +45,15 @@ import {useParams} from 'react-router-dom'
       .catch((error) => {
         console.warn(error)
       })
+
+    const productosFiltrados = productos.filter((producto) => producto.categoria === categoria)
     
   return (
-    <div className='cajaGreeting'>
+    <div className='itemListContainer'>
       {<ItemList
-      productos = {productos}
+      productos = {productosFiltrados}
       />}
-    </div>
+    </div> 
   )
 }
 

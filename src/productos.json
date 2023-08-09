@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "categoria": "Teclado 60%",
+        "categoria": "Teclado60",
         "nombre": "Teclado HyperX Alloy Origins 60%",
         "valor": 15500,
         "stock": 8,
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "categoria": "Teclado 60%",
+        "categoria": "Teclado60",
         "nombre": "Teclado YMDK Carbon 60%",
         "valor": 18900,
         "stock": 5,
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "categoria": "Teclado 65%",
+        "categoria": "Teclado65",
         "nombre": "Teclado Keychron K7 65%",
         "valor": 23800,
         "stock": 7,
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "categoria": "Teclado 65%",
+        "categoria": "Teclado65",
         "nombre": "Teclado Deepcool KG722 65%",
         "valor": 23800,
         "stock": 7,
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "categoria": "Teclado 75%",
+        "categoria": "Teclado75",
         "nombre": "Teclado Keychron K3 75%",
         "valor": 26300,
         "stock": 9,
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "categoria": "Teclado 75%",
+        "categoria": "Teclado75",
         "nombre": "Teclado ROG Azoth 75%",
         "valor": 33300,
         "stock": 8,
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "categoria": "Teclado FullZise",
+        "categoria": "TecladoFZ",
         "categoria2": "Teclado mecánico",
         "nombre": "Teclado Logitech G513 Carbon",
         "valor": 24500,
@@ -65,7 +65,7 @@
     },
     {
         "id": 8,
-        "categoria": "Teclado FullZise",
+        "categoria": "TecladoFZ",
         "categoria2": "Teclado mecánico",
         "nombre": "Teclado HyperX Alloy Origins",
         "valor": 18000,
@@ -75,7 +75,7 @@
     },
     {
         "id": 9,
-        "categoria": "Teclado FullZise",
+        "categoria": "TecladoFZ",
         "categoria2": "Teclado mecánico",
         "nombre": "Teclado ROG Claymore II",
         "valor": 37100,
@@ -85,7 +85,7 @@
     },
     {
         "id": 10,
-        "categoria": "Teclado FullZise",
+        "categoria": "TecladoFZ",
         "categoria2": "Teclado de membrana",
         "nombre": "Teclado Corsair K55 RGB",
         "valor": 19800,
@@ -95,7 +95,7 @@
     },
     {
         "id": 11,
-        "categoria": "Teclado FullZise",
+        "categoria": "TecladoFZ",
         "categoria2": "Teclado de membrana",
         "nombre": "Teclado Redragon Shiva K512",
         "valor": 16400,
@@ -105,7 +105,7 @@
     },
     {
         "id": 12,
-        "categoria": "Teclado FullZise",
+        "categoria": "TecladoFZ",
         "categoria2": "Teclado de membrana",
         "nombre": "Teclado Sentey Acrylix RGB",
         "valor": 8600,
