@@ -2,7 +2,7 @@ import React from 'react'
 /* import {useEffect, useState} from 'react' */
 import productos from '../productos.json'
 import ItemList from './ItemList'
-import Item from './Item'
+import {useParams} from 'react-router-dom'
 
 
 
@@ -25,6 +25,8 @@ import Item from './Item'
 
 
   const ItemListContainer = () => {
+
+    const {category} = useParams()
 
     //Obtención de productos a través de Promesa
     const getdata = new Promise((resolve, reject) => {
