@@ -4,9 +4,7 @@ Keyworld es el proyecto de empresa e-comerce que he trabajado para todos los cur
 
 
 ### Navegando por Keyworld
-
-
-
+![Keyworld Navigation](src\assets\Final.gif)
 
 ### Herramientas utilizadas
 
@@ -25,4 +23,3 @@ En la web de Keyworld podrá navegar entre categorías, siendo la primera elegid
 Agregar productos al carrito y conocer el precio unitario y total de la cantidad elegida de artículos.
 Además de rellenar un formulario al momento de finalizar la compra.
 Entre otras opciones...
-
