@@ -1,4 +1,3 @@
-import React from 'react'
 import CartWidget from './CartWidget'
 import {Nav, Navbar} from 'react-bootstrap'
 import {Link} from 'react-router-dom'
@@ -15,11 +14,7 @@ const NavbarDoc = () => {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="m-auto">
 
-              {/* <Link className="bootLink" to={`/Categoria/${'Teclado60'}`}>Teclados 60%</Link>
-              <Link className="bootLink" to={`/Categoria/${'Teclado65'}`}>Teclados 65%</Link>
-              <Link className="bootLink" to={`/Categoria/${'Teclado75'}`}>Teclados 75%</Link>
-              <Link className="bootLink" to={`/Categoria/${'TecladoFZ'}`}>Teclados FZ</Link> */}
-
+              <Nav.Link><Link className="bootLink text-reset" to={"/Teclados"}>Teclados All</Link></Nav.Link>
               <Nav.Link><Link className="bootLink text-reset" to={`/Categoria/${'Teclado60'}`}>Teclados 60%</Link></Nav.Link>
               <Nav.Link><Link className="bootLink text-reset" to={`/Categoria/${'Teclado65'}`}>Teclados 65%</Link></Nav.Link>
               <Nav.Link><Link className="bootLink text-reset" to={`/Categoria/${'Teclado75'}`}>Teclados 75%</Link></Nav.Link>

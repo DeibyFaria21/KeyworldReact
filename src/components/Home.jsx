@@ -1,15 +1,23 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+/* import { Link } from 'react-router-dom' */
+import imgmano1 from '../assets/Images/mano_teclado1.png'
+import imgmano2 from '../assets/Images/mano_teclado2.png'
+import imgmano3 from '../assets/Images/mano_teclado3.png'
+import imgmano4 from '../assets/Images/mano_teclado4.png'
+import imgobj1 from '../assets/Images/teclado_objetivo1.jpg'
+import imgobj2 from '../assets/Images/teclado_objetivo2.jpg'
+import imgobj3 from '../assets/Images/teclado_objetivo3.jpg'
+import imgobj4 from '../assets/Images/teclado_objetivo4.jpg'
 
 const Home = () => {
   return (
     <div className='cajaHome'>
         <div className="cajaimgtext1">
             <div className="col-xl-6 row border border-2 border-dark m-0 p-0">
-                {/* <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/mano_teclado1.png" alt="mano_teclado1"/>
-                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/mano_teclado2.png" alt="mano_teclado2"/>
-                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/mano_teclado3.png" alt="mano_teclado3"/>
-                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/mano_teclado4.png" alt="mano_teclado4"/> */}
+                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src={imgmano1}/>
+                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src={imgmano2}/>
+                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src={imgmano3}/>
+                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src={imgmano4}/>
             </div>
             <div className="col-xl-6 row">
                 <h2 className="text-center mt-4 text-decoration-underline">
@@ -36,10 +44,10 @@ const Home = () => {
                 </div>
             </div>
             <div className="col-xl-6 row border border-2 border-dark m-0 p-0">
-                {/* <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/teclado_objetivo1.jpg" alt="teclado_objetivo1"/>
-                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/teclado_objetivo2.jpg" alt="teclado_objetivo2"/>
-                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/teclado_objetivo3.jpg" alt="teclado_objetivo3"/>
-                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src="./images/teclado_objetivo4.jpg" alt="teclado_objetivo4"/> */}
+                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src={imgobj1}/>
+                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src={imgobj2}/>
+                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src={imgobj3}/>
+                <img className="col-md-6 object-fit-contain bg-dark border border-3 border-dark p-0" src={imgobj4}/>
             </div>
         </div>
     </div>

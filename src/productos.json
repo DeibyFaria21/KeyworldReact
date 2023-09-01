@@ -4,7 +4,7 @@
         "categoria": "Teclado60",
         "nombre": "Teclado HyperX Alloy Origins 60%",
         "valor": 15500,
-        "stock": 8,
+        "stock": 18,
         "imagen": "./assets/Images/g513carbon.jpg",
         "descripcion": "El HyperX Alloy Origins 60, es un teclado sumamente portátil con un factor de forma del 60% que le brinda más espacio para movimientos de barrido del mouse. Cuenta con un cuerpo duradero de aluminio completo y conmutadores HyperX confiables equilibrados para velocidad y rendimiento que están clasificados para soportar 80 millones de pulsaciones de teclas."
     },
@@ -13,7 +13,7 @@
         "categoria": "Teclado60",
         "nombre": "Teclado YMDK Carbon 60%",
         "valor": 18900,
-        "stock": 5,
+        "stock": 15,
         "imagen": "./images/g513carbon.jpg",
         "descripcion": "El YMDK Carbon, es un teclado pequeño pero cómodo. Es el teclado perfecto para aquellas personas que se sienten atraídas por un diseño minimalista, y que desean mantener un espacio libre bastante amplio sobre sus escritorios. Cuenta con un cuerpo de madera tratado con los mejores productos a fin de brindar un teclado duradero."
     },
@@ -22,7 +22,7 @@
         "categoria": "Teclado65",
         "nombre": "Teclado Keychron K7 65%",
         "valor": 23800,
-        "stock": 7,
+        "stock": 17,
         "imagen": "./images/g513carbon.jpg",
         "descripcion": "Esté preparado para realizar múltiples tareas sin perder el ritmo conectando el K7 con hasta 3 dispositivos a través del estable Broadcom Bluetooth 5.1 y cambie entre su computadora portátil, tableta y teléfono sin problemas. También puede conectar el K7 a su computadora con un cable tipo c. Los interruptores de perfil bajo redujeron los elementos no esenciales de los interruptores de perfil normal sin sacrificar su experiencia de escritura."
     },
@@ -30,8 +30,8 @@
         "id": 4,
         "categoria": "Teclado65",
         "nombre": "Teclado Deepcool KG722 65%",
-        "valor": 23800,
-        "stock": 7,
+        "valor": 24500,
+        "stock": 17,
         "imagen": "./images/g513carbon.jpg",
         "descripcion": "Diseñado para la portabilidad, el KG722 adopta un enfoque simplificado sin una fila de funciones superior, un grupo de navegación o un teclado numérico para un diseño compacto del 65% y un bisel estrecho para ahorrar espacio. Los interruptores Gateron Red, ligeros, suaves y silenciosos, ofrecen pulsaciones más rápidas gracias a un accionamiento lineal que tiene un recorrido más corto para ofrecerle una ventaja de velocidad."
     },
@@ -40,7 +40,7 @@
         "categoria": "Teclado75",
         "nombre": "Teclado Keychron K3 75%",
         "valor": 26300,
-        "stock": 9,
+        "stock": 19,
         "imagen": "./images/g513carbon.jpg",
         "descripcion": "El Keychron K3, es un teclado 75% que incorpora los primeros interruptores ópticos de perfil bajo intercambiables en caliente del mundo para personalizar la experiencia de escritura por tecla con facilidad, junto con todas las funciones exclusivas de Keychron. Además, se conecta a través de Bluetooth y cambia entre ellos fácilmente con el conjunto de chips Bluetooth 5.1."
     },
@@ -49,37 +49,37 @@
         "categoria": "Teclado75",
         "nombre": "Teclado ROG Azoth 75%",
         "valor": 33300,
-        "stock": 8,
+        "stock": 18,
         "imagen": "./images/g513carbon.jpg",
         "descripcion": "El ROG Azoth es un teclado gaming al 75 % de características DIY que se suelen encontrar en teclados personalizados de primera calidad. La cubierta superior metálica con junta de silicona y amortiguación de tres capas, los interruptores mecánicos ROG NX intercambiables en caliente y prelubricados y el estabilizador de teclado, las teclas ROG de PBT de doble inyección y el kit de lubricación de interruptores incluido se combinan para crear experiencias de escritura sin precedentes."
     },
     {
         "id": 7,
         "categoria": "TecladoFZ",
-        "categoria2": "Teclado mecánico",
+        "categoria2": "Teclado mecanico",
         "nombre": "Teclado Logitech G513 Carbon",
-        "valor": 24500,
-        "stock": 6,
+        "valor": 25400,
+        "stock": 16,
         "imagen": "./images/g513carbon.jpg",
         "descripcion": "G513 es un teclado para juegos de alto desempeño con interruptores mecánicos avanzados GX Brown Tactile. El reposamanos extraíble de espuma viscoelástica y la construcción de aleación de aluminio premium complementan las características de G513 para hacerlo el mejor de su clase."
     },
     {
         "id": 8,
         "categoria": "TecladoFZ",
-        "categoria2": "Teclado mecánico",
+        "categoria2": "Teclado mecanico",
         "nombre": "Teclado HyperX Alloy Origins",
         "valor": 18000,
-        "stock": 5,
+        "stock": 15,
         "imagen": "./images/alloyorigins.jpg",
         "descripcion": "El teclado HyperX Alloy Origins es resistente, compacto y cuenta con switches mecánicos HyperX personalizados que han sido diseñados para proporcionar a los jugadores la mejor combinación de rendimiento, fiabilidad y estilo, además de un cuerpo en aluminio muy resistente."
     },
     {
         "id": 9,
         "categoria": "TecladoFZ",
-        "categoria2": "Teclado mecánico",
+        "categoria2": "Teclado mecanico",
         "nombre": "Teclado ROG Claymore II",
         "valor": 37100,
-        "stock": 7,
+        "stock": 17,
         "imagen": "./images/rogclaymoreii.jpg",
         "descripcion": "Teclado mecánico para juegos modular TKL 80% / 100% ROG Claymore II con Switches Mecánicos Ópticos ROG RX, teclado numérico y reposamuñecas desmontables, modos 2.4G alámbrico e inalámbricos, teclas de acceso rápido extra personalizables, rueda de control de volumen e inalámbrico."
     },
@@ -89,7 +89,7 @@
         "categoria2": "Teclado de membrana",
         "nombre": "Teclado Corsair K55 RGB",
         "valor": 19800,
-        "stock": 3,
+        "stock": 13,
         "imagen": "./images/corsairk55.jpg",
         "descripcion": "El K55 RGB cuenta con modos de retroiluminación RGB intuitivos, sus 6 teclas macro específicas, el efecto antifantasmas multitecla y sus controles multimedia programables sobre la marcha ofrecen un gran control y capacidad de personalización, elementos esenciales para la victoria."
     },
@@ -99,7 +99,7 @@
         "categoria2": "Teclado de membrana",
         "nombre": "Teclado Redragon Shiva K512",
         "valor": 16400,
-        "stock": 2,
+        "stock": 12,
         "imagen": "./images/shivak512.jpg",
         "descripcion": "La cantidad de prestaciones que ofrece el Shiva es asombrosa: prácticamente todo lo que presumen los teclados mecánicos tope de gama, el Shiva lo tiene en su tipo membrana. Botones macro y multimedia dedicados. Iluminación RGB con 7 perfiles configurables. Reposamuñecas desmontable magnético."
     },
@@ -109,7 +109,7 @@
         "categoria2": "Teclado de membrana",
         "nombre": "Teclado Sentey Acrylix RGB",
         "valor": 8600,
-        "stock": 4,
+        "stock": 14,
         "imagen": "./images/senteyacrylix.jpg",
         "descripcion": "El diseño de retroiluminación, mejora la experiencia como usuario, enalteciendo el entorno para crear una atmósfera única. Acrylix es retroiluminado con LED de alta intensidad brillante que cuenta con tres niveles de brillo diferentes adaptados para diferentes momentos a lo largo del día."
     }
