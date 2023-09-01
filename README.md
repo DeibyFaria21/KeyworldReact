@@ -4,7 +4,7 @@ Keyworld es el proyecto de empresa e-comerce que he trabajado para todos los cur
 
 
 ### Navegando por Keyworld
-![Keyworld Navigation](src\assets\Final.gif)
+![Keyworld Navigation](https://github.com/DeibyFaria21/KeyworldReact/blob/main/src/assets/Final.gif)
 
 ### Herramientas utilizadas
 
